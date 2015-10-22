@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="answers">
+
+        <!-- Round 1 -->
+        <item>PHP: Hypertext Processor</item>
+        <item>Test1</item>
+        <item>echo "Hello World";</item>
+        <item>$</item>
+        <item>;</item>
+
+        <!-- Round 2 -->
+        <item>Perl and C</item>
+        <item>$_GET[];</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+
+        <!-- Round 3 -->
+        <item>&lt;?php include "time.inc"; ?&gt;</item>
+        <item>function myFunction()</item>
+        <item>fopen("time.txt","r");</item>
+        <item>$_SERVER</item>
+        <item>$count++;</item>
+
+        <!-- Round 4 -->
+        <item>/*...*/</item>
+        <item>FALSE</item>
+        <item>$cars = array("Volvo", "BMW", "Toyota");</item>
+        <item>TRUE</item>
+        <item>==</item>
+
+        <!-- Round 5 -->
+        <item>TRUE</item>
+        <item>TRUE</item>
+        <item>Using strcmp()</item>
+        <item>array_key_exists()</item>
+        <item>array_diff</item>
+
+        <!-- Round 6 -->
+        <item>TRUE</item>
+        <item>fread()</item>
+        <item>.phpRobert</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+
+        <!-- Round 7 -->
+        <item>TRUE</item>
+        <item>FALSE</item>
+        <item>const</item>
+        <item>0.5</item>
+        <item>&lt;=&gt;</item>
+
+        <!-- Round 8 -->
+        <item>null</item>
+        <item>&lt;? ?&gt;</item>
+        <item>FALSE</item>
+        <item>.php</item>
+        <item>TRUE</item>
+
+        <!-- Round 9 -->
+        <item>FALSE</item>
+        <item>$a_Variable = 9;</item>
+        <item>TRUE</item>
+        <item>String</item>
+        <item>TRUE</item>
+
+        <!-- Round 10 -->
+        <item>Integer</item>
+        <item>$a_Number = 7;</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+
+        <!-- Round 1 -->
+        <item>PHP: Hypertext Processor</item>
+        <item>Test1</item>
+        <item>echo "Hello World";</item>
+        <item>$</item>
+        <item>;</item>
+
+        <!-- Round 2 -->
+        <item>Perl and C</item>
+        <item>$_GET[];</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+
+        <!-- Round 3 -->
+        <item>&lt;?php include "time.inc"; ?&gt;</item>
+        <item>function myFunction()</item>
+        <item>fopen("time.txt","r");</item>
+        <item>$_SERVER</item>
+        <item>$count++;</item>
+
+        <!-- Round 4 -->
+        <item>/*...*/</item>
+        <item>FALSE</item>
+        <item>$cars = array("Volvo", "BMW", "Toyota");</item>
+        <item>TRUE</item>
+        <item>==</item>
+
+        <!-- Round 5 -->
+        <item>TRUE</item>
+        <item>TRUE</item>
+        <item>Using strcmp()</item>
+        <item>array_key_exists()</item>
+        <item>array_diff</item>
+
+        <!-- Round 6 -->
+        <item>TRUE</item>
+        <item>fread()</item>
+        <item>.phpRobert</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+
+        <!-- Round 7 -->
+        <item>TRUE</item>
+        <item>FALSE</item>
+        <item>const</item>
+        <item>0.5</item>
+        <item>&lt;=&gt;</item>
+
+        <!-- Round 8 -->
+        <item>null</item>
+        <item>&lt;? ?&gt;</item>
+        <item>FALSE</item>
+        <item>.php</item>
+        <item>TRUE</item>
+
+        <!-- Round 9 -->
+        <item>FALSE</item>
+        <item>$a_Variable = 9;</item>
+        <item>TRUE</item>
+        <item>String</item>
+        <item>TRUE</item>
+
+        <!-- Round 10 -->
+        <item>Integer</item>
+        <item>$a_Number = 7;</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+
+
+
+    </string-array>
+
+</resources>

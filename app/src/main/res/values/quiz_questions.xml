@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="questions">
+
+        <!-- Round 1 -->
+        <item>What PHP stands for?</item>
+        <item>What are the opening and closing tags of PHP?</item>
+        <item>How do you write \"Hello World\" in PHP</item>
+        <item>Variables always start with ______ in PHP</item>
+        <item>What is the correct way to end a PHP statement?</item>
+
+        <!-- Round 2 -->
+        <item>The PHP syntax is most similar to:</item>
+        <item>How do you get information from a form that is submitted using the \"get\" method?</item>
+        <item>When using the POST method, variables are displayed in the URL:</item>
+        <item>In PHP you can use both single quotes ( \' \' ) and double quotes ( \" \" ) for strings</item>
+        <item>Include files must have the file extension \".inc\"</item>
+
+        <!-- Round 3 -->
+        <item>What is the correct way to include the file \"time.inc\"</item>
+        <item>What is the correct way to create a function in PHP?</item>
+        <item>What is the correct way to open the file \"time.txt\" as readable?</item>
+        <item>Which superglobal variable holds information about headers, paths, and script locations?</item>
+        <item>What is the correct way to add 1 to the $count variable?</item>
+
+        <!-- Round 4 -->
+        <item>What is a correct way to add a comment in PHP?</item>
+        <item>In PHP, the only way to output text is with echo.</item>
+        <item>How do you create an array in PHP?</item>
+        <item>The if statement is used to execute some code only if a specified condition is true</item>
+        <item>Which operator is used to compare two values</item>
+
+        <!-- Round 5 -->
+        <item>PHP is an open source software</item>
+        <item>PHP runs on different platforms (Windows, Linux, Unix, etc.)</item>
+        <item>What is the best all-purpose way of comparing two strings?</item>
+        <item>Which array function checks if the specified key exists in the array</item>
+        <item>What function computes the difference of arrays?</item>
+
+        <!-- Round 6 -->
+        <item>fgets() is used to read a file one line at a time</item>
+        <item>Which of the following functions reads the entire contents of a file? </item>
+        <item>Which extension is not a correct PHP file extension?</item>
+        <item>PHP does not support databases?</item>
+        <item>Most of the syntax for PHP is borrowed from Java, Perl, and C?</item>
+
+        <!-- Round 7 -->
+        <item>PHP scripts are executed on a server?</item>
+        <item>PHP files are returned to the browser as plain PHP?</item>
+        <item>Which of the following is used to declare a constant</item>
+        <item>$var = 1 / 2;</item>
+        <item>Which of the following is NOT a valid PHP comparison operator?</item>
+
+        <!-- Round 8 -->
+        <item> A value that has no defined value is expressed in PHP with the following keyword:</item>
+        <item>How do you start the shorthand form PHP scripting block?</item>
+        <item>Whitespace is not ignored in PHP?</item>
+        <item>If a source file contains PHP code, what extension should be used?</item>
+        <item>Syntax is a set of rules that must be followed to write properly structured code?</item>
+
+        <!-- Round 9 -->
+        <item>For maximum compatibility, you should use the shorthand form to create PHP scripts?</item>
+        <item>Which of the following is the incorrect way to declare a PHP variable?</item>
+        <item>PHP variables need to be declared before adding a value to it?</item>
+        <item>What data type will PHP automatically convert the following variable to: $aVariable = “Robert”;</item>
+        <item>PHP variables are case-sensitive?</item>
+
+        <!-- Round 10 -->
+        <item>What data type will PHP automatically convert the following variable to:? $aVariable = 99;</item>
+        <item>Which of the following is the incorrect way to declare a PHP variable? </item>
+        <item>Are the following two variables the same: $yValue = 7; $YValue = 7;</item>
+        <item>The echo command is a means of outputting text to the web browser?</item>
+        <item>You can use HTML tags within an echo string?</item>
+
+        <!-- Round 1 -->
+        <item>What PHP stands for?</item>
+        <item>What are the opening and closing tags of PHP?</item>
+        <item>How do you write \"Hello World\" in PHP</item>
+        <item>Variables always start with ______ in PHP</item>
+        <item>What is the correct way to end a PHP statement?</item>
+
+        <!-- Round 2 -->
+        <item>The PHP syntax is most similar to:</item>
+        <item>How do you get information from a form that is submitted using the \"get\" method?</item>
+        <item>When using the POST method, variables are displayed in the URL:</item>
+        <item>In PHP you can use both single quotes ( \' \' ) and double quotes ( \" \" ) for strings</item>
+        <item>Include files must have the file extension \".inc\"</item>
+
+        <!-- Round 3 -->
+        <item>What is the correct way to include the file \"time.inc\"</item>
+        <item>What is the correct way to create a function in PHP?</item>
+        <item>What is the correct way to open the file \"time.txt\" as readable?</item>
+        <item>Which superglobal variable holds information about headers, paths, and script locations?</item>
+        <item>What is the correct way to add 1 to the $count variable?</item>
+
+        <!-- Round 4 -->
+        <item>What is a correct way to add a comment in PHP?</item>
+        <item>In PHP, the only way to output text is with echo.</item>
+        <item>How do you create an array in PHP?</item>
+        <item>The if statement is used to execute some code only if a specified condition is true</item>
+        <item>Which operator is used to compare two values</item>
+
+        <!-- Round 5 -->
+        <item>PHP is an open source software</item>
+        <item>PHP runs on different platforms (Windows, Linux, Unix, etc.)</item>
+        <item>What is the best all-purpose way of comparing two strings?</item>
+        <item>Which array function checks if the specified key exists in the array</item>
+        <item>What function computes the difference of arrays?</item>
+
+        <!-- Round 6 -->
+        <item>fgets() is used to read a file one line at a time</item>
+        <item>Which of the following functions reads the entire contents of a file? </item>
+        <item>Which extension is not a correct PHP file extension?</item>
+        <item>PHP does not support databases?</item>
+        <item>Most of the syntax for PHP is borrowed from Java, Perl, and C?</item>
+
+        <!-- Round 7 -->
+        <item>PHP scripts are executed on a server?</item>
+        <item>PHP files are returned to the browser as plain PHP?</item>
+        <item>Which of the following is used to declare a constant</item>
+        <item>$var = 1 / 2;</item>
+        <item>Which of the following is NOT a valid PHP comparison operator?</item>
+
+        <!-- Round 8 -->
+        <item> A value that has no defined value is expressed in PHP with the following keyword:</item>
+        <item>How do you start the shorthand form PHP scripting block?</item>
+        <item>Whitespace is not ignored in PHP?</item>
+        <item>If a source file contains PHP code, what extension should be used?</item>
+        <item>Syntax is a set of rules that must be followed to write properly structured code?</item>
+
+        <!-- Round 9 -->
+        <item>For maximum compatibility, you should use the shorthand form to create PHP scripts?</item>
+        <item>Which of the following is the incorrect way to declare a PHP variable?</item>
+        <item>PHP variables need to be declared before adding a value to it?</item>
+        <item>What data type will PHP automatically convert the following variable to: $aVariable = “Robert”;</item>
+        <item>PHP variables are case-sensitive?</item>
+
+        <!-- Round 10 -->
+        <item>What data type will PHP automatically convert the following variable to:? $aVariable = 99;</item>
+        <item>Which of the following is the incorrect way to declare a PHP variable? </item>
+        <item>Are the following two variables the same: $yValue = 7; $YValue = 7;</item>
+        <item>The echo command is a means of outputting text to the web browser?</item>
+        <item>You can use HTML tags within an echo string?</item>
+
+    </string-array>
+
+</resources>

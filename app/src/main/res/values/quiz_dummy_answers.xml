@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dummy_answers">
+
+        <!-- Round 1 -->
+        <item>Pre Hypertext Processor</item>
+        <item>Test</item>
+        <item>Document.Write("Hello World");</item>
+        <item>&amp;</item>
+        <item>&lt;/php&gt;</item>
+
+        <!-- Round 2 -->
+        <item>JavaScript</item>
+        <item>Request.QueryString;</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+
+        <!-- Round 3 -->
+        <item>&lt;?php include = "time.inc"; ?&gt;</item>
+        <item>create myFunction()</item>
+        <item>open("time.txt","read");</item>
+        <item>$_GLOBALS</item>
+        <item>$count =+1</item>
+
+        <!-- Round 4 -->
+        <item>*\...\*</item>
+        <item>TRUE</item>
+        <item>$cars = array["Volvo", "BMW", "Toyota"];</item>
+        <item>FALSE</item>
+        <item>=</item>
+
+        <!-- Round 5 -->
+        <item>FALSE</item>
+        <item>FALSE</item>
+        <item>Using == operator</item>
+        <item>array_key_exist()</item>
+        <item>arrays_diff</item>
+
+        <!-- Round 6 -->
+        <item>FALSE</item>
+        <item>readfile()</item>
+        <item>.php</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+
+        <!-- Round 7 -->
+        <item>FALSE</item>
+        <item>TRUE</item>
+        <item>constant</item>
+        <item>1</item>
+        <item>!==</item>
+
+        <!-- Round 8 -->
+        <item>empty</item>
+        <item>&lt;?php ?php&gt;</item>
+        <item>TRUE</item>
+        <item>.html</item>
+        <item>FALSE</item>
+
+        <!-- Round 9 -->
+        <item>TRUE</item>
+        <item>$a Variable = 9;</item>
+        <item>FALSE</item>
+        <item>Integer</item>
+        <item>FALSE</item>
+
+        <!-- Round 10 -->
+        <item>String</item>
+        <item>$a_Number = 9</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+
+        <!-- Round 1 -->
+        <item>Pre Hypertext Processor</item>
+        <item>Test</item>
+        <item>Document.Write("Hello World");</item>
+        <item>&amp;</item>
+        <item>&lt;/php&gt;</item>
+
+        <!-- Round 2 -->
+        <item>JavaScript</item>
+        <item>Request.QueryString;</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+
+        <!-- Round 3 -->
+        <item>&lt;?php include = "time.inc"; ?&gt;</item>
+        <item>create myFunction()</item>
+        <item>open("time.txt","read");</item>
+        <item>$_GLOBALS</item>
+        <item>$count =+1</item>
+
+        <!-- Round 4 -->
+        <item>*\...\*</item>
+        <item>TRUE</item>
+        <item>$cars = array["Volvo", "BMW", "Toyota"];</item>
+        <item>FALSE</item>
+        <item>=</item>
+
+        <!-- Round 5 -->
+        <item>FALSE</item>
+        <item>FALSE</item>
+        <item>Using == operator</item>
+        <item>array_key_exist()</item>
+        <item>arrays_diff</item>
+
+        <!-- Round 6 -->
+        <item>FALSE</item>
+        <item>readfile()</item>
+        <item>.php</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+
+        <!-- Round 7 -->
+        <item>FALSE</item>
+        <item>TRUE</item>
+        <item>constant</item>
+        <item>1</item>
+        <item>!==</item>
+
+        <!-- Round 8 -->
+        <item>empty</item>
+        <item>&lt;?php ?php&gt;</item>
+        <item>TRUE</item>
+        <item>.html</item>
+        <item>FALSE</item>
+
+        <!-- Round 9 -->
+        <item>TRUE</item>
+        <item>$a Variable = 9;</item>
+        <item>FALSE</item>
+        <item>Integer</item>
+        <item>FALSE</item>
+
+        <!-- Round 10 -->
+        <item>String</item>
+        <item>$a_Number = 9</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+
+    </string-array>
+
+
+</resources>
